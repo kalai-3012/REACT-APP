@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kalai-3012/REACT-APP/static/css/main.073c9b0a.css",
+    "main.js": "/kalai-3012/REACT-APP/static/js/main.d54272f4.js",
+    "static/js/787.41a206eb.chunk.js": "/kalai-3012/REACT-APP/static/js/787.41a206eb.chunk.js",
+    "static/media/logo.svg": "/kalai-3012/REACT-APP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kalai-3012/REACT-APP/index.html",
+    "main.073c9b0a.css.map": "/kalai-3012/REACT-APP/static/css/main.073c9b0a.css.map",
+    "main.d54272f4.js.map": "/kalai-3012/REACT-APP/static/js/main.d54272f4.js.map",
+    "787.41a206eb.chunk.js.map": "/kalai-3012/REACT-APP/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d54272f4.js"
+  ]
+}
